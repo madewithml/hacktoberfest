@@ -8,7 +8,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/madewithml/hacktoberfest)](https://github.com/madewithml/hacktoberfest/network)
 [![GitHub license](https://img.shields.io/github/license/madewithml/hacktoberfest)](https://github.com/madewithml/hacktoberfest/blob/main/LICENSE)
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://madewithml.com/slack)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmadewithml%2Fhacktoberfest)
 
 ![Build mkdocs](https://github.com/madewithml/hacktoberfest/workflows/Build%20mkdocs/badge.svg)
 ![Deploy mkdocs](https://github.com/madewithml/hacktoberfest/workflows/Deploy%20mkdocs/badge.svg)
