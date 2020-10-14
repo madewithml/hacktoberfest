@@ -1,5 +1,7 @@
 # Contribution Guide
 
+If you are working on an exciting ML/DL project, we would love to feature your work in this repo. The rules are simple
+
 **Please, follow these steps**
 
 ## Step 1: Forking this repo
