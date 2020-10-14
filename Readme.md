@@ -24,8 +24,8 @@
 
 We are looking for **interesting colab notebooks(Jupyter notebooks) or scripts covering:** 
 
-- ML/DL techniques ranging from beginner to advance level. An [example](https://colab.research.google.com/drive/1rXV31gdyqEiXCtmSgff-H-VRuOSzv7IH?usp=sharing).
-- Ablation studies. An [example](https://github.com/ayulockin/DataAugmentationTF).
+- In depth guides to ML/DL techniques ranging from beginner to advance level. An [example](https://colab.research.google.com/drive/1rXV31gdyqEiXCtmSgff-H-VRuOSzv7IH?usp=sharing).
+- Innovative approaches to common Machine learning Problems. An [example](https://github.com/ayulockin/DataAugmentationTF).
 - Model benchmarking on lesser known datasets. 
 
 We are not looking for ML/DL tasks which are commonly known and applied on widely known datasets. An example would be image classification on MNIST/Cifar-10 dataset. However, we would appreciate image classification on lesser known (interesting) dataset.
