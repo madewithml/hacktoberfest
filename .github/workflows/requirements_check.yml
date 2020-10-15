@@ -25,7 +25,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: actions/setup-python@v2
         with:
-          # Probably we need matrix here too. 
+          # This is just name sake, venv does python job
           python-version: 3.7
 
       - name: Create and Install package on Ubuntu
@@ -36,6 +36,7 @@ jobs:
           virtualenv vEnv ; source vEnv/bin/activate
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           cd .. & python
+          python -- version
           deactivate ; rm -rf vEnv
       
       - name: Install package on Mac
@@ -46,6 +47,7 @@ jobs:
           virtualenv vEnv ; source vEnv/bin/activate
           if ( -f requirements.txt ); then pip install -r requirements.txt; fi
           cd .. & python
+          python -- version
           deactivate ; rm -rf vEnv
       
       - name: Install package on Windows
@@ -56,5 +58,6 @@ jobs:
           virtualenv vEnv ; venv\Scripts\activate.bat
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           cd .. & python
+          python -- version
           venv\Scripts\deactivate.bat ; rm -r vEnv
 
