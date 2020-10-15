@@ -12,7 +12,7 @@ on:
       - main
 
 jobs:
-  pkg-install:
+  req-check:
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
