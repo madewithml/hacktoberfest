@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Maintanence Issue
+## Maintenance Issue
 
 **Describe problem / usefuleness of current content**
 I think the following domain/docs/feature is not proper.
