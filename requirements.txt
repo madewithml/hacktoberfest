@@ -1,5 +1,5 @@
 opencv-python==4.4.0.44
-torch==1.6.0+cpu
-torchvision==0.7.0+cpu
+torch==1.6.0
+torchvision==0.7.0
 scikit-learn==0.23.2
 

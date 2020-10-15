@@ -44,7 +44,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install virtualenv
           virtualenv vEnv ; source vEnv/bin/activate
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if ( -f requirements.txt ); then pip install -r requirements.txt; fi
           cd .. & python
           deactivate ; rm -rf vEnv
       
