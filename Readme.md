@@ -4,6 +4,7 @@
 
 <div align="center">
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/madewithml/hacktoberfest/main)
 [![GitHub issues](https://img.shields.io/github/issues/madewithml/hacktoberfest)](https://github.com/madewithml/hacktoberfest/issues)
 [![GitHub forks](https://img.shields.io/github/forks/madewithml/hacktoberfest)](https://github.com/madewithml/hacktoberfest/network)
 [![GitHub license](https://img.shields.io/github/license/madewithml/hacktoberfest)](https://github.com/madewithml/hacktoberfest/blob/main/LICENSE)
