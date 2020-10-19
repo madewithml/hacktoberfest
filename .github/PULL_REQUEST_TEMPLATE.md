@@ -15,7 +15,7 @@ Fixes # (issue)
 1. [ ] Does your code meet the requirements?
 2. [ ] Have you documented the code well?
 
-### Changes to Documetnations / Maintainence Features:
+### Changes to Documentations  / Maintenance Features:
 
 - [ ] Have you added an explanation of what your changes do and why you'd like us to include them?
 - [ ] Have you written new tests for your core changes, as applicable?
