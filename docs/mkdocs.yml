@@ -1,4 +1,4 @@
-site_name: Made With ML Hacktoberfest Docs
+site_name: Made With ML Guides Docs
 theme:
   name: "material"
   palette:
@@ -9,7 +9,7 @@ theme:
     scheme: default
 
 docs_dir: templates
-repo_url: https://github.com/madewithml/hacktoberfest
+repo_url: https://github.com/madewithml/guides
 markdown_extensions:
   - codehilite
   - pymdownx.superfences:

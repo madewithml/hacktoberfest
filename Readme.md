@@ -1,25 +1,24 @@
-# Hacktoberfest 2020 with Made with ML
-
-![Banner](assets/banner.png)
+# Guides By Made with ML
 
 <div align="center">
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/madewithml/hacktoberfest/main)
-[![GitHub issues](https://img.shields.io/github/issues/madewithml/hacktoberfest)](https://github.com/madewithml/hacktoberfest/issues)
-[![GitHub forks](https://img.shields.io/github/forks/madewithml/hacktoberfest)](https://github.com/madewithml/hacktoberfest/network)
-[![GitHub license](https://img.shields.io/github/license/madewithml/hacktoberfest)](https://github.com/madewithml/hacktoberfest/blob/main/LICENSE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/madewithml/guides/main)
+[![GitHub issues](https://img.shields.io/github/issues/madewithml/guides)](https://github.com/madewithml/guides/issues)
+[![GitHub forks](https://img.shields.io/github/forks/madewithml/guides)](https://github.com/madewithml/guides/network)
+[![GitHub license](https://img.shields.io/github/license/madewithml/guides)](https://github.com/madewithml/guides/blob/main/LICENSE)
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://madewithml.com/slack)
 
-![Build mkdocs](https://github.com/madewithml/hacktoberfest/workflows/Build%20mkdocs/badge.svg)
-![Deploy mkdocs](https://github.com/madewithml/hacktoberfest/workflows/Deploy%20mkdocs/badge.svg)
+![Build mkdocs](https://github.com/madewithml/guides/workflows/Build%20mkdocs/badge.svg)
+![Deploy mkdocs](https://github.com/madewithml/guides/workflows/Deploy%20mkdocs/badge.svg)
 
 </div>
 
-## What is Hacktoberfest ?
-- Hacktoberfest is a monthlong celebration of open source software organized by DigitalOcean.
-- This repository is specifically to aid machine learning developers who want to participate in Hacktoberfest.
+## What is Guides ?
+- Guides are step by step, in depth tutorials and blogs on machine learning topics.
+- They aim to help people who are new, intermediate or even experts.
+- Completely open-source free, written by community and maintained by community.
 
-## Made With ML is open for community collaborations :tada:
+## Made With ML Guides is open for community collaborations :tada:
 
 ### What are we looking for? :eyes:
 

@@ -11,12 +11,12 @@ create your own repo copy under your GitHub account. Once forked, you're
 responsible for keeping your repo copy up-to-date with the upstream
 repo.
 
-​2. Download a copy of your remote username/hacktoberfest repo to your
+​2. Download a copy of your remote username/guides repo to your
 local machine. This is the working directory where you will make
 changes:
 
 ```bash
-$ git clone https://github.com/madewithml/hacktoberfest.git
+$ git clone https://github.com/madewithml/guides.git
 ```
 
 3.  Install the requirments. You many use miniconda or conda as well.
@@ -28,10 +28,10 @@ $ pip install -r requirements.txt
 ## Step 2: Stay in Sync with the original (upstream) repo
 
 1.  Set the upstream to sync with this repo. This will keep you in sync
-    with hacktoberfest easily.
+    with guides easily.
 
 ```bash
-$ git remote add upstream https://github.com/madewithml/hacktoberfest.git
+$ git remote add upstream https://github.com/madewithml/guides.git
 ```
 
 2.  Updating your local repo: Pull the upstream (original) repo.
@@ -75,13 +75,13 @@ git push
 
 After the push completes, a message may display a URL to automatically
 submit a pull request to the upstream repo. If not, go to the
-hacktoberfest main repo and GitHub will prompt you to create a pull
+guides main repo and GitHub will prompt you to create a pull
 request.
 
 ## Step 6. Confirm PR was created:
 
 Ensure your pr is listed
-[here](https://github.com/madewithml/hacktoberfest/pulls)
+[here](https://github.com/madewithml/guides/pulls)
 
 -  Updating a PR:
 
@@ -100,5 +100,5 @@ git push origin <enter-branch-name-same-as-before>
 Maintainers and other contributors will review your pull request. Please
 participate in the discussion and make the requested changes. When your
 pull request is approved, it will be merged into the upstream
-hacktoberfest repo.
+guides repo.
 

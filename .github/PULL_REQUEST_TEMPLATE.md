@@ -1,4 +1,4 @@
-Hey, Thanks for creating this PR. Ensure you have checked the applicable boxes :smiley
+Hey, Thanks for creating this PR. Ensure you have checked the applicable boxes.
 
 ## What does this PR do?
 
