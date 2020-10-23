@@ -1,2 +1,6 @@
 opencv-python==4.4.0.44
 scikit-learn==0.23.2
+matplotlib==3.3.2
+torch==1.6.0
+torchvision==0.7.0
+seaborn==0.11.0
