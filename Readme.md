@@ -8,9 +8,6 @@
 [![GitHub license](https://img.shields.io/github/license/madewithml/guides)](https://github.com/madewithml/guides/blob/main/LICENSE)
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://madewithml.com/slack)
 
-![Build mkdocs](https://github.com/madewithml/guides/workflows/Build%20mkdocs/badge.svg)
-![Deploy mkdocs](https://github.com/madewithml/guides/workflows/Deploy%20mkdocs/badge.svg)
-
 </div>
 
 ## What is Guides ?
@@ -28,7 +25,9 @@ We are looking for **interesting colab notebooks(Jupyter notebooks) or scripts c
 - Innovative approaches to common Machine learning Problems. An [example](https://github.com/ayulockin/DataAugmentationTF).
 - Model benchmarking on lesser known datasets. 
 
-We are not looking for ML/DL tasks which are commonly known and applied on widely known datasets. An example would be image classification on MNIST/Cifar-10 dataset. However, we would appreciate image classification on lesser known (interesting) dataset.
+We are not looking for ML/DL tasks which are commonly known and applied on widely known datasets. An example would be image classification on MNIST/Cifar-10 dataset.
+
+However, we would appreciate image classification on lesser known (interesting) dataset.
 
 ### How can you contribute? :relaxed:
 
@@ -39,4 +38,5 @@ If you are working on an exciting ML/DL project, we would love to feature your w
 3. Fork this repo.
 4. Create a PR with notebook(s)/script(s).
 
-We will have some starter issues for you. For more ideas check out [topics](https://madewithml.com/topics/) page on made with ML.
+We will have some starter [issues](https://github.com/madewithml/guides/issues) for you.
+For more ideas check out [topics](https://madewithml.com/topics/) page on made with ML.
