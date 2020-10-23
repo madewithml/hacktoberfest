@@ -35,6 +35,7 @@ jobs:
           pip install virtualenv
           virtualenv vEnv ; source vEnv/bin/activate
           pip install -r requirements/requirements-linux.txt
+          pip check
           cd .. & python
           deactivate ; rm -rf vEnv
       
@@ -45,6 +46,7 @@ jobs:
           pip install virtualenv
           virtualenv vEnv ; source vEnv/bin/activate
           pip install -r requirements/requirements-mac.txt
+          pip check
           cd .. & python
           deactivate ; rm -rf vEnv
       
@@ -55,6 +57,7 @@ jobs:
           pip install virtualenv
           virtualenv vEnv ; venv\Scripts\activate.bat
           pip install -r requirements/requirements-win.txt
+          pip check
           cd .. & python
           venv\Scripts\deactivate.bat ; rm -r vEnv
 
